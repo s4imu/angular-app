@@ -1,0 +1,17 @@
+{
+    "products": [{
+        "id": 1,
+        "name": "Caneta",
+        "price": 1.89
+    }, 
+    {
+        "id": 2,
+        "name": "Caderno",
+        "price": 12.99
+    }, 
+    {
+        "id": 3,
+        "name": "Estojo",
+        "price": 8.50
+    }]
+}
